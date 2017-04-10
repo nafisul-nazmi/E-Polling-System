@@ -1,0 +1,34 @@
+Project Title: E-Polling System
+
+
+Submitted to:
+Md. Shiefuzzaman Sir,
+Senior System Analyst,
+AIUB Software Division
+
+
+Submitted by:
+1. Nafisul Islam Nazmi 
+ID: 15-29550-2
+2. Md. Golam Rahaman
+ID: 14-27496-3
+
+Course: Object Oriented Programming 2
+Section: H
+
+
+Description:
+An E-Polling system built based on the national elections of Bangladesh.
+Technologies used:
+1. Programming Language: C#
+2. Database: Oracle 10g Express Edition
+3. Architecture: N-Tier
+
+
+Instructions:
+1. Install Oracle Database before using. Version 10g is preferred as we developed the system with 10g Express Edition.
+2. See the SQL COMMANDS.txt file to create the tables as required.
+3. In EPollingSystem.DAL project, goto DatabaseHandler class and change the connection string as required.
+4. Set EPollingSystem.UI as the starting project after opening the solution with EPollingSystem.sln
+5. Default UserId: "admin", Password: "admin" (without quotes, for admin account)
+6. Once you enter centers, the CenterId becomes the UserId for that center.

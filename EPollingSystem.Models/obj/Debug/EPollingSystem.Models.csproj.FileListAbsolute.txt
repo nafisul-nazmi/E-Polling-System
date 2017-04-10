@@ -1,0 +1,5 @@
+D:\nazmi_docs\Books and notes\Semester 5\C#\project\EPollingSystem\EPollingSystem.Models\bin\Debug\EPollingSystem.Models.dll
+D:\nazmi_docs\Books and notes\Semester 5\C#\project\EPollingSystem\EPollingSystem.Models\bin\Debug\EPollingSystem.Models.pdb
+D:\nazmi_docs\Books and notes\Semester 5\C#\project\EPollingSystem\EPollingSystem.Models\obj\Debug\EPollingSystem.Models.dll
+D:\nazmi_docs\Books and notes\Semester 5\C#\project\EPollingSystem\EPollingSystem.Models\obj\Debug\EPollingSystem.Models.pdb
+D:\nazmi_docs\Books and notes\Semester 5\C#\project\EPollingSystem\EPollingSystem.Models\obj\Debug\EPollingSystem.Models.csprojResolveAssemblyReference.cache
